@@ -2,10 +2,6 @@
 
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
 
-<p align="center">
-  <a href="https://github.com/kogutstt2"><img src="https://readme-typing-svg.herokuapp.com/?lines=Electrical%20Engineer;Full%20Stack%20Developer;Graphics%20Designer;Tech%20Enthusiast&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
-</p>
-
 <!-- Coloured Lines -->
 <h3 align="center">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
