@@ -187,7 +187,7 @@ const eren = {
 
 | ![Eren Github Stats](https://github-readme-stats.vercel.app/api?username=echooferen&show_icons=true&theme=radical)              | ![Eren GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=echooferen&theme=radical)                               |
 | -------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=echooferen&langs_count=8&theme=radical&layout=compact) | ![Github Stars](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=echooferen&theme=radical&utcOffset=8) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=echooferen&langs_count=8&theme=radical&layout=compact) | ![Github Stars](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=echooferen&theme=radical) |
 
 <!-- color=nord_dark -->
 
