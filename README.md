@@ -1,44 +1,7 @@
-<!-- Matrix Gif Here -->
-
-[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
-
-<!-- Coloured Lines -->
-<h3 align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-</h3>
-
 <!-- Animated Gif Here -->
 <p align="center">
   <img src="animated.gif" align="center" width="90%" />
 </p>
-
-<!-- Coloured Line -->
-<h3 align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-</h3>
-
-<!-- About Me Section Here -->
-
-## <picture><img src = "https://github.com/echooferen/echooferen/blob/main/about_me.gif" width = 50px></picture> *About Me*
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
-
-
-- 😄 Pronouns: **He/His**
-
-<!-- - 🌱 I’m currently working on **Project** -->
-
-- 🏆 I'm Interested in making the world better by **PRs**
-
-- 💬 Ask me about **Development Stuffs**
-
-<!-- - 📫 How to reach @gmail.com -->
-
-- ⚡ Fun fact **Your Childhood Celebrity Crush❤‍🔥**
-
-<!-- Coloured Line -->
-<h3 align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-</h3>
 
 ### A Little More About Me! 🧟‍♂️
 
